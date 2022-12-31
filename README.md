@@ -22,8 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create a Virtual Machine in Azure
-- Item 2
+- Azure Tenant (Organization)
+- Subscription
 - Item 3
 - Item 4
 - Item 5
