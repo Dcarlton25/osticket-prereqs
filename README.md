@@ -24,9 +24,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Azure Tenant (Organization)
 - Subscription
-- Item 3
-- Item 4
-- Item 5
+- Resource Group
+- Virtual Network
+- Subnet
 
 <h2>Installation Steps</h2>
 
