@@ -44,9 +44,11 @@ First, you will need to go to https://portal.azure.com and then click on "resour
 <br />
 
 <p>
-<img src="https://i.imgur.com/FzlgupL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/w5qcyq8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/xKQMpli.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, you will need to click "home" and then click "virtual machines", after that you need to click "create" and "Azure virtual machine"
+Next, you will need to click "home" and then click "virtual machines", after that you need to click "create" and "Azure virtual machine". You should now be on the same page as seen on the example above. Choose the resource group you just created to be the resource group for your virtual machine, then give your virtual machine a name. After that you will want to choose Windows 10 as your image as well as choosing a size that has either 2 or 4 virtual cpus(vcpus). Now you will need to create a username and password for your virtual machine. Then check the licensing box at the bottom and lastly click "review + create" and then click "create" one additional time. Now you have successfully created a virtual machine. Examples above.
 </p>
 <br />
