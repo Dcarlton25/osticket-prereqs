@@ -34,7 +34,9 @@ In this lab I will demonstrate how to setup, configure and use osTicket. Above i
 <br />
 
 <p>
-<img src="https://i.imgur.com/7U4wCcp.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/FOibmLg.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7U4wCcp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<img src="https://i.imgur.com/FOibmLg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First, you will need to go to https://portal.azure.com and then click on Resourse Groups. Then click on create resource group, and give the resource group a name. After naming your resource group you will have to click "review + create" at the bottom of the screen. Next, click "create" one additional time and now you should have an active resource group. Example above.
