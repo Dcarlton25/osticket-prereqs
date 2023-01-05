@@ -53,5 +53,6 @@ Next, you will need to click "home" and then click "virtual machines", after tha
 </p>
 <br />
 <img src="https://i.imgur.com/blQH7CG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YdQZMlh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Next, you will need to open your virtual machine and copy the public IP address. Now go to start and type in "remote desktop" and then paste the public IP address and click "connect". After that, Click "use another account" then enter the credentials you created. Now you should see a disclaimer that states "The identity of the remote computer cannot be verified. Do you want to connect anyway?" Click "yes" and now you should be on the home screen of the virtual machine.
+Next, you will need to open your virtual machine and copy the public IP address. Now go to start and type in "remote desktop" and then paste the public IP address and click "connect". After that, Click "use another account" then enter the credentials you created. Now you should see a disclaimer that states "The identity of the remote computer cannot be verified. Do you want to connect anyway?" Click "yes" and now you should be on the home screen of the virtual machine. Examples above.
