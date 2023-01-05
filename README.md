@@ -56,3 +56,9 @@ Next, you will need to click "home" and then click "virtual machines", after tha
 <img src="https://i.imgur.com/YdQZMlh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Next, you will need to open your virtual machine and copy the public IP address. Now go to start and type in "remote desktop" and then paste the public IP address and click "connect". After that, Click "use another account" then enter the credentials you created. Now you should see a disclaimer that states "The identity of the remote computer cannot be verified. Do you want to connect anyway?" Click "yes" and now you should be on the home screen of the virtual machine. Examples above.
+</p>
+</p>
+<img src="https://i.imgur.com/HAfOW3V.png" height="80%" width="80%" "alt="Disk Sanitization Steps"/>
+
+
+First, go to your web browser and search for as well as download and install "web platform installer". Next, open web platform installer and search "MySQL", then add "MySQL Windows 5.5". You will also need to search for and add the following "PHP 5.6.31", "PHP 7.0.33 (x86)", "PHP 7.1.29 (x86)", "PHP 7.2.26 (x86)", "PHP 7.3.25 (x86)", " PHP 7.4.13 (x86)" and once you have added all of them, click "install".
