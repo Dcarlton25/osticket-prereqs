@@ -62,3 +62,8 @@ Next, you will need to open your virtual machine and copy the public IP address.
 
 
 First, go to the start menu and search as well as open "control panel" then under "Programs" click "uninstall a program". Next, click "turn windows features on or off" then check "internet information services (iis)", then click "expand" on "internet information services", then click "expand" on "world wide web services", then click "expand" on "application development features" then check "CGI" and click "ok" to install. Example above.
+
+
+<img src="https://i.imgur.com/cSYwYs5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+                                                                                                 
+Next, you will need to download and install PHP Manager as well as the rewrite module for iis (both can be downloaded from a web browser). After that, you will need to open file explorer, then open "this pc", then "Windows C:", and after that create a new folder in WindowsC: for your PHP files.
