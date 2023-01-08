@@ -69,3 +69,8 @@ First, go to the start menu and search as well as open "control panel" then unde
 
 
 Next, you will need to download and install PHP Manager as well as the rewrite module for iis (both can be downloaded from a web browser). After that, you will need to open file explorer, then open "this pc", then "Windows C:", and after that create a new folder in WindowsC: for your PHP files. You will also need to download and extract "php 7.3.8" into PHP directory file you created. Next, you will need to download and install Microsoft Visual C++ Redistributable. After that you will need to download and install Microsoft MySQL Server. Once you have installed MySQL Server you will need to create credentials for the MySQL Server. Examples above.
+</p>
+</p>
+<img src="https://i.imgur.com/Y6F6RsY.png" height="80%" width="80%" "alt="Disk Sanitization Steps"/>
+                                                                                                  
+The next step is to run iis as an administrater, then click "register new PHP version" then browse for the PHP folder you created in C Drive and open the folder. After opening the folder select "php-cgi" and then click "ok"
